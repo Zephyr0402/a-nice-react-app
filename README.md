@@ -1,2 +1,2 @@
 # a-nice-react-app
-This is the official start code of React, for learning purpose only.
+This is based on the official starter code of React, for learning purpose only.
